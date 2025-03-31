@@ -23,3 +23,5 @@ I developed a comprehensive Data analysis project using Power BI, creating Inter
 - Design the layout for clarity, readability and user engagement
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/084e5916-32b9-483b-8fe3-12d7cad3cf76)
+
+The above Dashboard shows the Total and monthly percentage of the Presence, WFH and SL 
