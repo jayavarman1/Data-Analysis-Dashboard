@@ -22,4 +22,4 @@ I developed a comprehensive Data analysis project using Power BI, creating Inter
 - Develop interactive charts and graphs for presence trend, WFH% and SL%.
 - Design the layout for clarity, readability and user engagement
 ## Dashboard
-[Dashboard)](https://github.com/jayavarman1/Data-Analysis-Dashboard/blob/main/Dashboard.jpg)
+![Dashboard](https://github.com/user-attachments/assets/084e5916-32b9-483b-8fe3-12d7cad3cf76)
