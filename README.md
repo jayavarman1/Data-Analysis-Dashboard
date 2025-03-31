@@ -14,5 +14,4 @@ I developed a comprehensive Data analysis project using Power BI, creating Inter
 - Sick Leaave % - Percentage of employees on sick leave.
 - Monthly Attendance Rate.
 - Peak & low Attendance days
-
-Dashboard interaction <a href = "https://github.com/jayavarman1/Data-Analysis-Dashboard/blob/main/Dashboard%20BI.jpg">View Dashboard</a>
+- Dashboard interaction <a href = "https://github.com/jayavarman1/Data-Analysis-Dashboard/blob/main/Dashboard%20BI.jpg">View Dashboard</a>
